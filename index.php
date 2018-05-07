@@ -1,0 +1,2 @@
+<?php
+# Stay gold ponyboy!
